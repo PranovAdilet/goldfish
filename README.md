@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Магазин настольных игр
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Данный проект был реализован на библиотеке [Create React App]
 
-## Available Scripts
+## Основные команды:
 
-In the project directory, you can run:
+Чтобы запустить данный проект локально:
 
 ### `npm start`
 
@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Библиотеки :
+
+#### NODE-SASS :
+Библиотека для задания стилей [https://github.com/sass/node-sass](https://github.com/sass/node-sass)
+
+#### Redux/Redux Toolkit : 
+Стейт менеджер [https://redux.js.org/](https://redux.js.org/)
+
+#### React-Router-Dom v6 : 
+Маршрутизация по проекту [https://reactrouter.com/en/v6.3.0/getting-started/overview](https://reactrouter.com/en/v6.3.0/getting-started/overview)
+
+#### Axios :
+
+#### React-toastify :
+
+#### React-Hook-Form :
+
+#### Methodology Bem :
+
+#### Material UI :
